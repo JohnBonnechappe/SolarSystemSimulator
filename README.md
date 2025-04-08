@@ -6,3 +6,8 @@ Several large objects such as stars or planets can be set in motion to see the o
 This is the VB version that I wrote about fourty years ago.
 
 I will soon be rewriting this in Javascript to run in a browser. I am planning to allow any number of gravitating objects and to have the spacecraft fire thrusters in real time.
+
+Happy Buck Rodgering.
+
+Licence:
+MIT
