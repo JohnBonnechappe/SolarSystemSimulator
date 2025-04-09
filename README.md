@@ -13,7 +13,7 @@
 
 ✔ Advantages: This is great for seeing how objects of different mass affect each other, and how orbits can be raised, lowered, or rotated. It can also nicely show how a slingshot manouvre is done.
 
-🤷‍♂️ Limitations: it is a two dimentional model so the orbital planes can't be rotated out of the screen. The underlying physics model is crude so occasionally objects get scattered at wild angles.
+🤷‍♂️ Limitations: it is a two dimentional model so the orbital planes can't be rotated out of the screen. The underlying physics model is crude so occasionally objects get scattered at wild angles if they collide or get too close.
 
 🐱‍🏍 I will soon be rewriting this in Javascript to run in a browser. I am planning to allow any number of gravitating objects and to have the spacecraft fire thrusters in real time, upgrade the physics model, and allow objects to have an atmosphere so aerobraking can be simulated.
 
