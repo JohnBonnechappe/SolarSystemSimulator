@@ -7,6 +7,10 @@
 
 ✔ To run, just download the exe file and click on it. Or compile the source if you prefer.
 
+✔ Leave parameters in their default setting for a nice initial demo.
+
+✔ Parameters can be saved in a file then reloaded at any run.
+
 ✔ Advantages: This is great for seeing how objects of different mass affect each other, and how orbits can be raised, lowered, or rotated. It can also nicely show how a slingshot manouvre is done.
 
 🤷‍♂️ Limitations: it is a two dimentional model so the orbital planes can't be rotated out of the screen. The underlying physics model is crude so occasionally objects get scattered at wild angles.
