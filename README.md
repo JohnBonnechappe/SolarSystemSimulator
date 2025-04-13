@@ -1,5 +1,5 @@
 # SolarSystemSimulator
-👀 Simulator for planetary systems in Visual Basic.
+👀 Simulator for planetary systems in Visual Basic VB6.
 
 ✔ This is the VB version for Windows that I wrote about twenty years ago (in 2005 and 2006).
 
@@ -16,6 +16,8 @@
 🤷‍♂️ Limitations: it is a two dimentional model so the orbital planes can't be rotated out of the screen. The underlying physics model is crude so occasionally objects get scattered at wild angles if they collide or get too close.
 
 🐱‍🏍 I will soon be rewriting this in Javascript to run in a browser. I am planning to allow any number of gravitating objects and to have the spacecraft fire thrusters in real time, upgrade the physics model, and allow objects to have an atmosphere so aerobraking can be simulated.
+
+✨🏆🏆 Note: New version coming soon!
 
 😁 Happy Buck Rodgering.
 
